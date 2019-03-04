@@ -5,5 +5,5 @@ title: EcoJulia
 # Packages
 
 {% for package in site.packages %}
-  {{ package.title }}
+  {% include package.html %}
 {% endfor %}
