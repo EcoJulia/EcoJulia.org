@@ -2,4 +2,8 @@
 title: EcoJulia
 ---
 
-Hello World!
+# Packages
+
+{% for package in site.packages %}
+  {{ package.title }}
+{% endfor %}

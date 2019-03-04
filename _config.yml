@@ -1,0 +1,11 @@
+title: "EcoJulia"
+description: ""
+url: ""
+
+collections:
+  packages:
+    label: Packages
+    output: true
+  tutorials:
+    label: Tutorials
+    output: true
