@@ -16,15 +16,8 @@ A generalized framework for building high-performance grid-based spatial simulat
 Extends DynamicGrids.jl for grid-based simulations of organism dispersal.
 [![Dispersal](/assets/minimal-mistakes/dispersal.png)](https://github.com/cesaraustralia/Dispersal.jl)
 
-## EcologicalNetworks.jl
-Common interface to analyze all types of data on ecological networks including bipartite/unipartite as well as deterministic/quantitative/probabilistic networks.
-
 ## GrowthMaps.jl
 [GrowthMaps.jl](https://github.com/cesaraustralia/GrowthMaps.jl) efficiently generates the layers required for growth rules based on temperature response and stress factors. Interoperability with Dispersal.jl and DynamicGrids.jl.
-
-# Mangal.jl
-API for the [mangal](https://mangal.io/#/) ecological interactions database
-[![Mangal](/assets/minimal-mistakes/mangal.png)](https://github.com/EcoJulia/Mangal.jl)
 
 ## Microbiome.jl
 Analysis of microbiome and microbial community data
