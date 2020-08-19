@@ -12,7 +12,7 @@ on:
     #     on the master branch; also, at the end of the file, change to
     #    `BRANCH: master`
     branches:
-      - master
+      - dev
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -60,5 +60,5 @@ jobs:
         # NOTE
         #   Set this to `BRANCH: gh-pages` for a **project** page and  to
         #   `BRANCH: master` for a **personal** page
-        BRANCH: gh-pages
+        BRANCH: master
         FOLDER: __site
