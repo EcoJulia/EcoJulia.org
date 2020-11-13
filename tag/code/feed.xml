@@ -4,7 +4,7 @@
   <description><![CDATA[Ecological Research in the Julia language
 ]]></description>
   <link>https://tlienart.github.io/FranklinTemplates.jl/</link>
-  <atom:link href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://tlienart.github.io/FranklinTemplates.jl/tag/code/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Code blocks</title>
     <link>https://tlienart.github.io/FranklinTemplates.jl/menu1/</link>
