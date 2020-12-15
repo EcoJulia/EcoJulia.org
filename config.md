@@ -5,7 +5,7 @@ The website_* must be defined for the RSS to work
 -->
 @def website_title = "EcoJulia"
 @def website_descr = "Ecological Research in the Julia language"
-@def website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+@def website_url   = "https://EcoJula.org"
 
 @def author = "EcoJulia"
 
