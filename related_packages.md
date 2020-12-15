@@ -25,4 +25,4 @@ Analysis of microbiome and microbial community data
 
 ## PopGen.jl
 Population genetics in Julia
-[![PopGen](/assets/minimal-mistakes/popgen.png)](https://github.com/pdimens/PopGen.jl)
+[![PopGen](/assets/minimal-mistakes/popgen.png)](https://github.com/BioJulia/PopGen.jl/tree/release)
