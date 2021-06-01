@@ -3,6 +3,10 @@
 
 # Publications 
 
+Poisot, T. et al. (2021) Imputing the mammalian virome with linear filtering and singular value decomposition, https://arxiv.org/abs/2105.14973
+
+Banville et al., (2021). Mangal.jl and EcologicalNetworks.jl: Two complementary packages for analyzing ecological networks in Julia. Journal of Open Source Software, 6(61), 2721, https://doi.org/10.21105/joss.02721
+
 Landau et al., (2021). Omniscape.jl: Software to compute omnidirectional landscape connectivity. Journal of Open Source Software, 6(57), 2829, https://doi.org/10.21105/joss.02829
 
 Dansereau et al., (2021). SimpleSDMLayers.jl and GBIF.jl: A Framework for Species Distribution Modeling in Julia. Journal of Open Source Software, 6(57), 2872, https://doi.org/10.21105/joss.02872
