@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  {{fd2rss website_title}}  ]]>
+      <![CDATA[  EcoJulia  ]]>
     </title>
-    <link> {{website_url}} </link>
+    <link> https://EcoJula.org </link>
     <description>
-      <![CDATA[  {{fd2rss website_description}}  ]]>
+      <![CDATA[  Ecological Research in the Julia language  ]]>
     </description>
     <atom:link
-      href="{{fd_rss_feed_url}}"
+      href="https://EcoJula.org/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
